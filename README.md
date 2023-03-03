@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Miriam, I'm a Full Stack developer. 
+
+
+
 <!--
 **mirionet/mirionet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
